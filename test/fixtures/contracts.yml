@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  project: one
+  contractor: one
+  amount_subcontracted: 9.99
+
+two:
+  project: two
+  contractor: two
+  amount_subcontracted: 9.99

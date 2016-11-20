@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  main_contractor_id: 1
+  id_number: MyString
+  name: MyText
+  address: MyString
+  status: 1
+  duration: 9.99
+  cost: 9.99
+  category_id: 1
+  implementing_office: MyString
+
+two:
+  main_contractor_id: 1
+  id_number: MyString
+  name: MyText
+  address: MyString
+  status: 1
+  duration: 9.99
+  cost: 9.99
+  category_id: 1
+  implementing_office: MyString

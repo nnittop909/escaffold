@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  plate_number: MyString
+  make: MyString
+  model: MyString
+  employee_id: 1
+  project_id: 1
+  status: 1
+  acquisition_cost: 9.99
+  acquisition_date: 2016-10-28 13:04:56
+  photo: MyString
+  chassis_number: MyString
+  engine_number: MyString
+
+two:
+  plate_number: MyString
+  make: MyString
+  model: MyString
+  employee_id: 1
+  project_id: 1
+  status: 1
+  acquisition_cost: 9.99
+  acquisition_date: 2016-10-28 13:04:56
+  photo: MyString
+  chassis_number: MyString
+  engine_number: MyString

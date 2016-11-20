@@ -1,0 +1,3 @@
+class AttachmentFile < ApplicationRecord
+  belongs_to :project
+end

@@ -1,0 +1,2 @@
+class IssuedInventory < ApplicationRecord
+end

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cost: 9.99
+  quantity: 1
+  name: MyString
+  description: MyString
+  unit: MyString
+  status: 1
+
+two:
+  cost: 9.99
+  quantity: 1
+  name: MyString
+  description: MyString
+  unit: MyString
+  status: 1

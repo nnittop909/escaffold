@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  project: one
+  number_of_days: 1
+  remarks: MyString
+
+two:
+  project: two
+  number_of_days: 1
+  remarks: MyString
